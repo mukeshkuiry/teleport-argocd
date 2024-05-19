@@ -1,0 +1,5 @@
+proxy:
+  service:
+    type: LoadBalancer
+auth:
+  enabled: true
